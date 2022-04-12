@@ -1,0 +1,13 @@
+/home/caro/holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/0-positive_or_negative/bin/Debug/netcoreapp3.1/0-positive_or_negative
+/home/caro/holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/0-positive_or_negative/bin/Debug/netcoreapp3.1/0-positive_or_negative.deps.json
+/home/caro/holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/0-positive_or_negative/bin/Debug/netcoreapp3.1/0-positive_or_negative.runtimeconfig.json
+/home/caro/holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/0-positive_or_negative/bin/Debug/netcoreapp3.1/0-positive_or_negative.runtimeconfig.dev.json
+/home/caro/holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/0-positive_or_negative/bin/Debug/netcoreapp3.1/0-positive_or_negative.dll
+/home/caro/holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/0-positive_or_negative/bin/Debug/netcoreapp3.1/0-positive_or_negative.pdb
+/home/caro/holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/0-positive_or_negative/obj/Debug/netcoreapp3.1/0-positive_or_negative.csprojAssemblyReference.cache
+/home/caro/holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/0-positive_or_negative/obj/Debug/netcoreapp3.1/0-positive_or_negative.AssemblyInfoInputs.cache
+/home/caro/holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/0-positive_or_negative/obj/Debug/netcoreapp3.1/0-positive_or_negative.AssemblyInfo.cs
+/home/caro/holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/0-positive_or_negative/obj/Debug/netcoreapp3.1/0-positive_or_negative.csproj.CoreCompileInputs.cache
+/home/caro/holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/0-positive_or_negative/obj/Debug/netcoreapp3.1/0-positive_or_negative.dll
+/home/caro/holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/0-positive_or_negative/obj/Debug/netcoreapp3.1/0-positive_or_negative.pdb
+/home/caro/holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/0-positive_or_negative/obj/Debug/netcoreapp3.1/0-positive_or_negative.genruntimeconfig.cache
