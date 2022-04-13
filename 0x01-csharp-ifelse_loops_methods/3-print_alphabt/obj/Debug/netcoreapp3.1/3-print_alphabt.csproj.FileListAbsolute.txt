@@ -1,0 +1,13 @@
+/home/caro/holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/3-print_alphabt/bin/Debug/netcoreapp3.1/3-print_alphabt
+/home/caro/holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/3-print_alphabt/bin/Debug/netcoreapp3.1/3-print_alphabt.deps.json
+/home/caro/holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/3-print_alphabt/bin/Debug/netcoreapp3.1/3-print_alphabt.runtimeconfig.json
+/home/caro/holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/3-print_alphabt/bin/Debug/netcoreapp3.1/3-print_alphabt.runtimeconfig.dev.json
+/home/caro/holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/3-print_alphabt/bin/Debug/netcoreapp3.1/3-print_alphabt.dll
+/home/caro/holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/3-print_alphabt/bin/Debug/netcoreapp3.1/3-print_alphabt.pdb
+/home/caro/holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/3-print_alphabt/obj/Debug/netcoreapp3.1/3-print_alphabt.csprojAssemblyReference.cache
+/home/caro/holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/3-print_alphabt/obj/Debug/netcoreapp3.1/3-print_alphabt.AssemblyInfoInputs.cache
+/home/caro/holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/3-print_alphabt/obj/Debug/netcoreapp3.1/3-print_alphabt.AssemblyInfo.cs
+/home/caro/holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/3-print_alphabt/obj/Debug/netcoreapp3.1/3-print_alphabt.csproj.CoreCompileInputs.cache
+/home/caro/holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/3-print_alphabt/obj/Debug/netcoreapp3.1/3-print_alphabt.dll
+/home/caro/holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/3-print_alphabt/obj/Debug/netcoreapp3.1/3-print_alphabt.pdb
+/home/caro/holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/3-print_alphabt/obj/Debug/netcoreapp3.1/3-print_alphabt.genruntimeconfig.cache
