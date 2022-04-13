@@ -6,11 +6,11 @@ namespace _2_print_alphabet
     {
         static void Main(string[] args)
         {
-            // string alphabet = "abcdefghijklmnopqrstuvwxyz";
-            // for (int i = 0; i < alphabet.Length; i++) {
-            //     Console.Write("{0}", alphabet[i]);
-            // }
-            Console.Write("abcdefghijklmnopqrstuvwxyz");
+            string alphabet = "abcdefghijklmnopqrstuvwxyz";
+            for (int i = 0; i < alphabet.Length; i++) {
+                Console.Write("{0}", alphabet[i]);
+            }
+            // Console.Write("abcdefghijklmnopqrstuvwxyz");
         }
     }
 }
