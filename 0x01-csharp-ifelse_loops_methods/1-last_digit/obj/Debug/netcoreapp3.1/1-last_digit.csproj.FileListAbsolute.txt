@@ -1,0 +1,13 @@
+/home/caro/holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/1-last_digit/bin/Debug/netcoreapp3.1/1-last_digit
+/home/caro/holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/1-last_digit/bin/Debug/netcoreapp3.1/1-last_digit.deps.json
+/home/caro/holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/1-last_digit/bin/Debug/netcoreapp3.1/1-last_digit.runtimeconfig.json
+/home/caro/holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/1-last_digit/bin/Debug/netcoreapp3.1/1-last_digit.runtimeconfig.dev.json
+/home/caro/holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/1-last_digit/bin/Debug/netcoreapp3.1/1-last_digit.dll
+/home/caro/holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/1-last_digit/bin/Debug/netcoreapp3.1/1-last_digit.pdb
+/home/caro/holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/1-last_digit/obj/Debug/netcoreapp3.1/1-last_digit.csprojAssemblyReference.cache
+/home/caro/holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/1-last_digit/obj/Debug/netcoreapp3.1/1-last_digit.AssemblyInfoInputs.cache
+/home/caro/holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/1-last_digit/obj/Debug/netcoreapp3.1/1-last_digit.AssemblyInfo.cs
+/home/caro/holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/1-last_digit/obj/Debug/netcoreapp3.1/1-last_digit.csproj.CoreCompileInputs.cache
+/home/caro/holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/1-last_digit/obj/Debug/netcoreapp3.1/1-last_digit.dll
+/home/caro/holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/1-last_digit/obj/Debug/netcoreapp3.1/1-last_digit.pdb
+/home/caro/holberton/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/1-last_digit/obj/Debug/netcoreapp3.1/1-last_digit.genruntimeconfig.cache
