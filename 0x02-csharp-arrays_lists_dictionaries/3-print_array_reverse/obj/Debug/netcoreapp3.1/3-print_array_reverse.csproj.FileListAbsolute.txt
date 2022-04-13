@@ -1,0 +1,13 @@
+/home/caro/holberton/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/3-print_array_reverse/bin/Debug/netcoreapp3.1/3-print_array_reverse
+/home/caro/holberton/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/3-print_array_reverse/bin/Debug/netcoreapp3.1/3-print_array_reverse.deps.json
+/home/caro/holberton/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/3-print_array_reverse/bin/Debug/netcoreapp3.1/3-print_array_reverse.runtimeconfig.json
+/home/caro/holberton/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/3-print_array_reverse/bin/Debug/netcoreapp3.1/3-print_array_reverse.runtimeconfig.dev.json
+/home/caro/holberton/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/3-print_array_reverse/bin/Debug/netcoreapp3.1/3-print_array_reverse.dll
+/home/caro/holberton/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/3-print_array_reverse/bin/Debug/netcoreapp3.1/3-print_array_reverse.pdb
+/home/caro/holberton/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/3-print_array_reverse/obj/Debug/netcoreapp3.1/3-print_array_reverse.csprojAssemblyReference.cache
+/home/caro/holberton/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/3-print_array_reverse/obj/Debug/netcoreapp3.1/3-print_array_reverse.AssemblyInfoInputs.cache
+/home/caro/holberton/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/3-print_array_reverse/obj/Debug/netcoreapp3.1/3-print_array_reverse.AssemblyInfo.cs
+/home/caro/holberton/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/3-print_array_reverse/obj/Debug/netcoreapp3.1/3-print_array_reverse.csproj.CoreCompileInputs.cache
+/home/caro/holberton/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/3-print_array_reverse/obj/Debug/netcoreapp3.1/3-print_array_reverse.dll
+/home/caro/holberton/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/3-print_array_reverse/obj/Debug/netcoreapp3.1/3-print_array_reverse.pdb
+/home/caro/holberton/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/3-print_array_reverse/obj/Debug/netcoreapp3.1/3-print_array_reverse.genruntimeconfig.cache
