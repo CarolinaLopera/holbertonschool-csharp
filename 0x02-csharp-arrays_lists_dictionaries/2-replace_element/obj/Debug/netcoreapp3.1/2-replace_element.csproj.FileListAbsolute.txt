@@ -1,0 +1,13 @@
+/home/caro/holberton/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/2-replace_element/obj/Debug/netcoreapp3.1/2-replace_element.csprojAssemblyReference.cache
+/home/caro/holberton/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/2-replace_element/obj/Debug/netcoreapp3.1/2-replace_element.AssemblyInfoInputs.cache
+/home/caro/holberton/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/2-replace_element/obj/Debug/netcoreapp3.1/2-replace_element.AssemblyInfo.cs
+/home/caro/holberton/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/2-replace_element/obj/Debug/netcoreapp3.1/2-replace_element.csproj.CoreCompileInputs.cache
+/home/caro/holberton/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/2-replace_element/bin/Debug/netcoreapp3.1/2-replace_element
+/home/caro/holberton/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/2-replace_element/bin/Debug/netcoreapp3.1/2-replace_element.deps.json
+/home/caro/holberton/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/2-replace_element/bin/Debug/netcoreapp3.1/2-replace_element.runtimeconfig.json
+/home/caro/holberton/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/2-replace_element/bin/Debug/netcoreapp3.1/2-replace_element.runtimeconfig.dev.json
+/home/caro/holberton/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/2-replace_element/bin/Debug/netcoreapp3.1/2-replace_element.dll
+/home/caro/holberton/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/2-replace_element/bin/Debug/netcoreapp3.1/2-replace_element.pdb
+/home/caro/holberton/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/2-replace_element/obj/Debug/netcoreapp3.1/2-replace_element.dll
+/home/caro/holberton/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/2-replace_element/obj/Debug/netcoreapp3.1/2-replace_element.pdb
+/home/caro/holberton/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/2-replace_element/obj/Debug/netcoreapp3.1/2-replace_element.genruntimeconfig.cache
