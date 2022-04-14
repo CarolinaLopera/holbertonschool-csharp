@@ -24,7 +24,7 @@ class MyStack {
                 }
             }
         } else {
-            Console.WriteLine("Stack contains {0}: False", search);
+            Console.WriteLine("Stack contains \"{0}\": False", search);
         }
 
         aStack.Push(newItem);
