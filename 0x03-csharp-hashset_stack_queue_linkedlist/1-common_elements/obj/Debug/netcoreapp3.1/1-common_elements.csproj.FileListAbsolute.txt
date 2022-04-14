@@ -1,0 +1,13 @@
+/home/caro/holberton/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/1-common_elements/obj/Debug/netcoreapp3.1/1-common_elements.csprojAssemblyReference.cache
+/home/caro/holberton/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/1-common_elements/obj/Debug/netcoreapp3.1/1-common_elements.AssemblyInfoInputs.cache
+/home/caro/holberton/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/1-common_elements/obj/Debug/netcoreapp3.1/1-common_elements.AssemblyInfo.cs
+/home/caro/holberton/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/1-common_elements/obj/Debug/netcoreapp3.1/1-common_elements.csproj.CoreCompileInputs.cache
+/home/caro/holberton/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/1-common_elements/bin/Debug/netcoreapp3.1/1-common_elements
+/home/caro/holberton/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/1-common_elements/bin/Debug/netcoreapp3.1/1-common_elements.deps.json
+/home/caro/holberton/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/1-common_elements/bin/Debug/netcoreapp3.1/1-common_elements.runtimeconfig.json
+/home/caro/holberton/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/1-common_elements/bin/Debug/netcoreapp3.1/1-common_elements.runtimeconfig.dev.json
+/home/caro/holberton/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/1-common_elements/bin/Debug/netcoreapp3.1/1-common_elements.dll
+/home/caro/holberton/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/1-common_elements/bin/Debug/netcoreapp3.1/1-common_elements.pdb
+/home/caro/holberton/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/1-common_elements/obj/Debug/netcoreapp3.1/1-common_elements.dll
+/home/caro/holberton/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/1-common_elements/obj/Debug/netcoreapp3.1/1-common_elements.pdb
+/home/caro/holberton/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/1-common_elements/obj/Debug/netcoreapp3.1/1-common_elements.genruntimeconfig.cache
