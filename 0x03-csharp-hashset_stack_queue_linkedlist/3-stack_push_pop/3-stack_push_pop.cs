@@ -12,7 +12,7 @@ class MyStack {
         }
 
         if (aStack.Contains(search)) {
-            Console.WriteLine("Stack contains {0}: True", search);
+            Console.WriteLine("Stack contains \"{0}\": True", search);
             bool flag = false;
 
             for (int i = aStack.Count; i > 0; i ++) {
