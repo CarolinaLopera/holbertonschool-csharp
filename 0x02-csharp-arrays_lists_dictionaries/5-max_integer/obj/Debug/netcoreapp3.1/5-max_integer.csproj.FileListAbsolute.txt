@@ -1,0 +1,4 @@
+/home/caro/holberton/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/5-max_integer/obj/Debug/netcoreapp3.1/5-max_integer.csprojAssemblyReference.cache
+/home/caro/holberton/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/5-max_integer/obj/Debug/netcoreapp3.1/5-max_integer.AssemblyInfoInputs.cache
+/home/caro/holberton/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/5-max_integer/obj/Debug/netcoreapp3.1/5-max_integer.AssemblyInfo.cs
+/home/caro/holberton/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/5-max_integer/obj/Debug/netcoreapp3.1/5-max_integer.csproj.CoreCompileInputs.cache
