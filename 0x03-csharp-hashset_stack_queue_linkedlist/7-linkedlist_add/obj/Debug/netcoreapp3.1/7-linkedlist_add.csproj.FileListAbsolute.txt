@@ -1,0 +1,13 @@
+/home/caro/holberton/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/7-linkedlist_add/obj/Debug/netcoreapp3.1/7-linkedlist_add.csprojAssemblyReference.cache
+/home/caro/holberton/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/7-linkedlist_add/obj/Debug/netcoreapp3.1/7-linkedlist_add.AssemblyInfoInputs.cache
+/home/caro/holberton/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/7-linkedlist_add/obj/Debug/netcoreapp3.1/7-linkedlist_add.AssemblyInfo.cs
+/home/caro/holberton/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/7-linkedlist_add/obj/Debug/netcoreapp3.1/7-linkedlist_add.csproj.CoreCompileInputs.cache
+/home/caro/holberton/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/7-linkedlist_add/bin/Debug/netcoreapp3.1/7-linkedlist_add
+/home/caro/holberton/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/7-linkedlist_add/bin/Debug/netcoreapp3.1/7-linkedlist_add.deps.json
+/home/caro/holberton/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/7-linkedlist_add/bin/Debug/netcoreapp3.1/7-linkedlist_add.runtimeconfig.json
+/home/caro/holberton/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/7-linkedlist_add/bin/Debug/netcoreapp3.1/7-linkedlist_add.runtimeconfig.dev.json
+/home/caro/holberton/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/7-linkedlist_add/bin/Debug/netcoreapp3.1/7-linkedlist_add.dll
+/home/caro/holberton/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/7-linkedlist_add/bin/Debug/netcoreapp3.1/7-linkedlist_add.pdb
+/home/caro/holberton/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/7-linkedlist_add/obj/Debug/netcoreapp3.1/7-linkedlist_add.dll
+/home/caro/holberton/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/7-linkedlist_add/obj/Debug/netcoreapp3.1/7-linkedlist_add.pdb
+/home/caro/holberton/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/7-linkedlist_add/obj/Debug/netcoreapp3.1/7-linkedlist_add.genruntimeconfig.cache
