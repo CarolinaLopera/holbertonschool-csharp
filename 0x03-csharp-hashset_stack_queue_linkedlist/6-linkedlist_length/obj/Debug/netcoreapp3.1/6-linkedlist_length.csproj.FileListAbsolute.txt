@@ -1,0 +1,13 @@
+/home/caro/holberton/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/6-linkedlist_length/bin/Debug/netcoreapp3.1/6-linkedlist_length
+/home/caro/holberton/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/6-linkedlist_length/bin/Debug/netcoreapp3.1/6-linkedlist_length.deps.json
+/home/caro/holberton/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/6-linkedlist_length/bin/Debug/netcoreapp3.1/6-linkedlist_length.runtimeconfig.json
+/home/caro/holberton/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/6-linkedlist_length/bin/Debug/netcoreapp3.1/6-linkedlist_length.runtimeconfig.dev.json
+/home/caro/holberton/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/6-linkedlist_length/bin/Debug/netcoreapp3.1/6-linkedlist_length.dll
+/home/caro/holberton/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/6-linkedlist_length/bin/Debug/netcoreapp3.1/6-linkedlist_length.pdb
+/home/caro/holberton/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/6-linkedlist_length/obj/Debug/netcoreapp3.1/6-linkedlist_length.csprojAssemblyReference.cache
+/home/caro/holberton/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/6-linkedlist_length/obj/Debug/netcoreapp3.1/6-linkedlist_length.AssemblyInfoInputs.cache
+/home/caro/holberton/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/6-linkedlist_length/obj/Debug/netcoreapp3.1/6-linkedlist_length.AssemblyInfo.cs
+/home/caro/holberton/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/6-linkedlist_length/obj/Debug/netcoreapp3.1/6-linkedlist_length.csproj.CoreCompileInputs.cache
+/home/caro/holberton/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/6-linkedlist_length/obj/Debug/netcoreapp3.1/6-linkedlist_length.dll
+/home/caro/holberton/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/6-linkedlist_length/obj/Debug/netcoreapp3.1/6-linkedlist_length.pdb
+/home/caro/holberton/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/6-linkedlist_length/obj/Debug/netcoreapp3.1/6-linkedlist_length.genruntimeconfig.cache
