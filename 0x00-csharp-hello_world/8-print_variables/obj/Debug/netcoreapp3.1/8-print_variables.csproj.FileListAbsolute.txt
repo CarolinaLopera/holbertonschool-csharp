@@ -1,0 +1,13 @@
+/home/caro/holberton/holbertonschool-csharp/0x00-csharp-hello_world/8-print_variables/bin/Debug/netcoreapp3.1/8-print_variables
+/home/caro/holberton/holbertonschool-csharp/0x00-csharp-hello_world/8-print_variables/bin/Debug/netcoreapp3.1/8-print_variables.deps.json
+/home/caro/holberton/holbertonschool-csharp/0x00-csharp-hello_world/8-print_variables/bin/Debug/netcoreapp3.1/8-print_variables.runtimeconfig.json
+/home/caro/holberton/holbertonschool-csharp/0x00-csharp-hello_world/8-print_variables/bin/Debug/netcoreapp3.1/8-print_variables.runtimeconfig.dev.json
+/home/caro/holberton/holbertonschool-csharp/0x00-csharp-hello_world/8-print_variables/bin/Debug/netcoreapp3.1/8-print_variables.dll
+/home/caro/holberton/holbertonschool-csharp/0x00-csharp-hello_world/8-print_variables/bin/Debug/netcoreapp3.1/8-print_variables.pdb
+/home/caro/holberton/holbertonschool-csharp/0x00-csharp-hello_world/8-print_variables/obj/Debug/netcoreapp3.1/8-print_variables.csprojAssemblyReference.cache
+/home/caro/holberton/holbertonschool-csharp/0x00-csharp-hello_world/8-print_variables/obj/Debug/netcoreapp3.1/8-print_variables.AssemblyInfoInputs.cache
+/home/caro/holberton/holbertonschool-csharp/0x00-csharp-hello_world/8-print_variables/obj/Debug/netcoreapp3.1/8-print_variables.AssemblyInfo.cs
+/home/caro/holberton/holbertonschool-csharp/0x00-csharp-hello_world/8-print_variables/obj/Debug/netcoreapp3.1/8-print_variables.csproj.CoreCompileInputs.cache
+/home/caro/holberton/holbertonschool-csharp/0x00-csharp-hello_world/8-print_variables/obj/Debug/netcoreapp3.1/8-print_variables.dll
+/home/caro/holberton/holbertonschool-csharp/0x00-csharp-hello_world/8-print_variables/obj/Debug/netcoreapp3.1/8-print_variables.pdb
+/home/caro/holberton/holbertonschool-csharp/0x00-csharp-hello_world/8-print_variables/obj/Debug/netcoreapp3.1/8-print_variables.genruntimeconfig.cache
