@@ -1,0 +1,13 @@
+/home/caro/holberton/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/12-linkedlist_insert/obj/Debug/netcoreapp3.1/12-linkedlist_insert.csprojAssemblyReference.cache
+/home/caro/holberton/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/12-linkedlist_insert/obj/Debug/netcoreapp3.1/12-linkedlist_insert.AssemblyInfoInputs.cache
+/home/caro/holberton/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/12-linkedlist_insert/obj/Debug/netcoreapp3.1/12-linkedlist_insert.AssemblyInfo.cs
+/home/caro/holberton/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/12-linkedlist_insert/obj/Debug/netcoreapp3.1/12-linkedlist_insert.csproj.CoreCompileInputs.cache
+/home/caro/holberton/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/12-linkedlist_insert/bin/Debug/netcoreapp3.1/12-linkedlist_insert
+/home/caro/holberton/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/12-linkedlist_insert/bin/Debug/netcoreapp3.1/12-linkedlist_insert.deps.json
+/home/caro/holberton/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/12-linkedlist_insert/bin/Debug/netcoreapp3.1/12-linkedlist_insert.runtimeconfig.json
+/home/caro/holberton/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/12-linkedlist_insert/bin/Debug/netcoreapp3.1/12-linkedlist_insert.runtimeconfig.dev.json
+/home/caro/holberton/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/12-linkedlist_insert/bin/Debug/netcoreapp3.1/12-linkedlist_insert.dll
+/home/caro/holberton/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/12-linkedlist_insert/bin/Debug/netcoreapp3.1/12-linkedlist_insert.pdb
+/home/caro/holberton/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/12-linkedlist_insert/obj/Debug/netcoreapp3.1/12-linkedlist_insert.dll
+/home/caro/holberton/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/12-linkedlist_insert/obj/Debug/netcoreapp3.1/12-linkedlist_insert.pdb
+/home/caro/holberton/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/12-linkedlist_insert/obj/Debug/netcoreapp3.1/12-linkedlist_insert.genruntimeconfig.cache
