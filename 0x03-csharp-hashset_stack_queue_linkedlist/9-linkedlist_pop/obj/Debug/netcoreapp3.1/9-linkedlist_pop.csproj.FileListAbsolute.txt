@@ -1,0 +1,13 @@
+/home/caro/holberton/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/9-linkedlist_pop/obj/Debug/netcoreapp3.1/9-linkedlist_pop.csprojAssemblyReference.cache
+/home/caro/holberton/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/9-linkedlist_pop/obj/Debug/netcoreapp3.1/9-linkedlist_pop.AssemblyInfoInputs.cache
+/home/caro/holberton/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/9-linkedlist_pop/obj/Debug/netcoreapp3.1/9-linkedlist_pop.AssemblyInfo.cs
+/home/caro/holberton/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/9-linkedlist_pop/obj/Debug/netcoreapp3.1/9-linkedlist_pop.csproj.CoreCompileInputs.cache
+/home/caro/holberton/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/9-linkedlist_pop/bin/Debug/netcoreapp3.1/9-linkedlist_pop
+/home/caro/holberton/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/9-linkedlist_pop/bin/Debug/netcoreapp3.1/9-linkedlist_pop.deps.json
+/home/caro/holberton/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/9-linkedlist_pop/bin/Debug/netcoreapp3.1/9-linkedlist_pop.runtimeconfig.json
+/home/caro/holberton/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/9-linkedlist_pop/bin/Debug/netcoreapp3.1/9-linkedlist_pop.runtimeconfig.dev.json
+/home/caro/holberton/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/9-linkedlist_pop/bin/Debug/netcoreapp3.1/9-linkedlist_pop.dll
+/home/caro/holberton/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/9-linkedlist_pop/bin/Debug/netcoreapp3.1/9-linkedlist_pop.pdb
+/home/caro/holberton/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/9-linkedlist_pop/obj/Debug/netcoreapp3.1/9-linkedlist_pop.dll
+/home/caro/holberton/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/9-linkedlist_pop/obj/Debug/netcoreapp3.1/9-linkedlist_pop.pdb
+/home/caro/holberton/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/9-linkedlist_pop/obj/Debug/netcoreapp3.1/9-linkedlist_pop.genruntimeconfig.cache
