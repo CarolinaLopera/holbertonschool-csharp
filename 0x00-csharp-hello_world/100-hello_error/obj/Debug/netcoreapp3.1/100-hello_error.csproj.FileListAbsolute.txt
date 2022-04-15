@@ -1,0 +1,13 @@
+/home/caro/holberton/holbertonschool-csharp/0x00-csharp-hello_world/100-hello_error/obj/Debug/netcoreapp3.1/100-hello_error.csprojAssemblyReference.cache
+/home/caro/holberton/holbertonschool-csharp/0x00-csharp-hello_world/100-hello_error/obj/Debug/netcoreapp3.1/100-hello_error.AssemblyInfoInputs.cache
+/home/caro/holberton/holbertonschool-csharp/0x00-csharp-hello_world/100-hello_error/obj/Debug/netcoreapp3.1/100-hello_error.AssemblyInfo.cs
+/home/caro/holberton/holbertonschool-csharp/0x00-csharp-hello_world/100-hello_error/obj/Debug/netcoreapp3.1/100-hello_error.csproj.CoreCompileInputs.cache
+/home/caro/holberton/holbertonschool-csharp/0x00-csharp-hello_world/100-hello_error/bin/Debug/netcoreapp3.1/100-hello_error
+/home/caro/holberton/holbertonschool-csharp/0x00-csharp-hello_world/100-hello_error/bin/Debug/netcoreapp3.1/100-hello_error.deps.json
+/home/caro/holberton/holbertonschool-csharp/0x00-csharp-hello_world/100-hello_error/bin/Debug/netcoreapp3.1/100-hello_error.runtimeconfig.json
+/home/caro/holberton/holbertonschool-csharp/0x00-csharp-hello_world/100-hello_error/bin/Debug/netcoreapp3.1/100-hello_error.runtimeconfig.dev.json
+/home/caro/holberton/holbertonschool-csharp/0x00-csharp-hello_world/100-hello_error/bin/Debug/netcoreapp3.1/100-hello_error.dll
+/home/caro/holberton/holbertonschool-csharp/0x00-csharp-hello_world/100-hello_error/bin/Debug/netcoreapp3.1/100-hello_error.pdb
+/home/caro/holberton/holbertonschool-csharp/0x00-csharp-hello_world/100-hello_error/obj/Debug/netcoreapp3.1/100-hello_error.dll
+/home/caro/holberton/holbertonschool-csharp/0x00-csharp-hello_world/100-hello_error/obj/Debug/netcoreapp3.1/100-hello_error.pdb
+/home/caro/holberton/holbertonschool-csharp/0x00-csharp-hello_world/100-hello_error/obj/Debug/netcoreapp3.1/100-hello_error.genruntimeconfig.cache
