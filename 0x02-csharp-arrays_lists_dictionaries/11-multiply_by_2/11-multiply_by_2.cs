@@ -5,7 +5,7 @@ class Dictionary {
     public static Dictionary<string, int> MultiplyBy2(Dictionary<string, int> myDict) {
         Dictionary<string, int> newDict = new Dictionary<string, int>();
         foreach (KeyValuePair<string, int> dict in myDict) {
-            newDict[dict.Key]= dict.Value*2;
+            newDict[dict.Key] = dict.Value * 2;
         }
         return newDict;
     }

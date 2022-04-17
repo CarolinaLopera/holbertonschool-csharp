@@ -1,0 +1,12 @@
+/home/caro/holberton/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/13-linkedlist_delete/bin/Debug/netcoreapp2.1/13-linkedlist_delete.deps.json
+/home/caro/holberton/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/13-linkedlist_delete/bin/Debug/netcoreapp2.1/13-linkedlist_delete.runtimeconfig.json
+/home/caro/holberton/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/13-linkedlist_delete/bin/Debug/netcoreapp2.1/13-linkedlist_delete.runtimeconfig.dev.json
+/home/caro/holberton/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/13-linkedlist_delete/bin/Debug/netcoreapp2.1/13-linkedlist_delete.dll
+/home/caro/holberton/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/13-linkedlist_delete/bin/Debug/netcoreapp2.1/13-linkedlist_delete.pdb
+/home/caro/holberton/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/13-linkedlist_delete/obj/Debug/netcoreapp2.1/13-linkedlist_delete.csprojAssemblyReference.cache
+/home/caro/holberton/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/13-linkedlist_delete/obj/Debug/netcoreapp2.1/13-linkedlist_delete.AssemblyInfoInputs.cache
+/home/caro/holberton/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/13-linkedlist_delete/obj/Debug/netcoreapp2.1/13-linkedlist_delete.AssemblyInfo.cs
+/home/caro/holberton/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/13-linkedlist_delete/obj/Debug/netcoreapp2.1/13-linkedlist_delete.csproj.CoreCompileInputs.cache
+/home/caro/holberton/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/13-linkedlist_delete/obj/Debug/netcoreapp2.1/13-linkedlist_delete.dll
+/home/caro/holberton/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/13-linkedlist_delete/obj/Debug/netcoreapp2.1/13-linkedlist_delete.pdb
+/home/caro/holberton/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/13-linkedlist_delete/obj/Debug/netcoreapp2.1/13-linkedlist_delete.genruntimeconfig.cache

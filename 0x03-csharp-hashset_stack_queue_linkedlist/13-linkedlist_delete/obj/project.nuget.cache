@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "pH3NAU43QpF7sdia9ChRd1cMXXX7BVp0/qrI7qa1G8P22nFKucGFVWbcFG2DIp/rOi6dfDqM0we8VQKAgdl30A==",
+  "dgSpecHash": "NIGuibLztNIelmmNlNX1G95Jo1V6/C8nK0DejSlUNt/xiLdY10uQtMon4Ei0oRtg+OpzCnHCdPHDlAKdPHiQLw==",
   "success": true,
   "projectFilePath": "/home/caro/holberton/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/13-linkedlist_delete/13-linkedlist_delete.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/caro/.nuget/packages/microsoft.netcore.app/2.1.0/microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "/home/caro/.nuget/packages/microsoft.netcore.dotnetapphost/2.1.0/microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "/home/caro/.nuget/packages/microsoft.netcore.dotnethostpolicy/2.1.0/microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "/home/caro/.nuget/packages/microsoft.netcore.dotnethostresolver/2.1.0/microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "/home/caro/.nuget/packages/microsoft.netcore.platforms/2.1.0/microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "/home/caro/.nuget/packages/microsoft.netcore.targets/2.1.0/microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "/home/caro/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
