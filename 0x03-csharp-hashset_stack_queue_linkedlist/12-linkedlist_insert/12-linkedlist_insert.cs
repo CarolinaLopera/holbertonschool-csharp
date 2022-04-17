@@ -11,6 +11,9 @@ class LList {
             }
             node = node.Next;
         }
+        if (!myLList.Contains(n)) {
+            myLList.AddLast(n);
+        }
         return null;
     }
 }
