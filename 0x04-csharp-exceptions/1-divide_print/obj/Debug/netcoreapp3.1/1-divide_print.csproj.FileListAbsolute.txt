@@ -1,0 +1,13 @@
+/home/caro/holberton/holbertonschool-csharp/0x04-csharp-exceptions/1-divide_print/obj/Debug/netcoreapp3.1/1-divide_print.csprojAssemblyReference.cache
+/home/caro/holberton/holbertonschool-csharp/0x04-csharp-exceptions/1-divide_print/obj/Debug/netcoreapp3.1/1-divide_print.AssemblyInfoInputs.cache
+/home/caro/holberton/holbertonschool-csharp/0x04-csharp-exceptions/1-divide_print/obj/Debug/netcoreapp3.1/1-divide_print.AssemblyInfo.cs
+/home/caro/holberton/holbertonschool-csharp/0x04-csharp-exceptions/1-divide_print/obj/Debug/netcoreapp3.1/1-divide_print.csproj.CoreCompileInputs.cache
+/home/caro/holberton/holbertonschool-csharp/0x04-csharp-exceptions/1-divide_print/bin/Debug/netcoreapp3.1/1-divide_print
+/home/caro/holberton/holbertonschool-csharp/0x04-csharp-exceptions/1-divide_print/bin/Debug/netcoreapp3.1/1-divide_print.deps.json
+/home/caro/holberton/holbertonschool-csharp/0x04-csharp-exceptions/1-divide_print/bin/Debug/netcoreapp3.1/1-divide_print.runtimeconfig.json
+/home/caro/holberton/holbertonschool-csharp/0x04-csharp-exceptions/1-divide_print/bin/Debug/netcoreapp3.1/1-divide_print.runtimeconfig.dev.json
+/home/caro/holberton/holbertonschool-csharp/0x04-csharp-exceptions/1-divide_print/bin/Debug/netcoreapp3.1/1-divide_print.dll
+/home/caro/holberton/holbertonschool-csharp/0x04-csharp-exceptions/1-divide_print/bin/Debug/netcoreapp3.1/1-divide_print.pdb
+/home/caro/holberton/holbertonschool-csharp/0x04-csharp-exceptions/1-divide_print/obj/Debug/netcoreapp3.1/1-divide_print.dll
+/home/caro/holberton/holbertonschool-csharp/0x04-csharp-exceptions/1-divide_print/obj/Debug/netcoreapp3.1/1-divide_print.pdb
+/home/caro/holberton/holbertonschool-csharp/0x04-csharp-exceptions/1-divide_print/obj/Debug/netcoreapp3.1/1-divide_print.genruntimeconfig.cache
