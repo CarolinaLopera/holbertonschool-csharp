@@ -1,5 +1,0 @@
-cd ..; mkdir 12-print_sorted_dictionary;\
- cd 12-print_sorted_dictionary;\
- dotnet new console;\
- mv Program.cs 12-print_sorted_dictionary.cs;\
- touch 12-main.cs
