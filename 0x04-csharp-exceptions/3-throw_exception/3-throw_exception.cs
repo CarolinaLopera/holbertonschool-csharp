@@ -1,12 +1,7 @@
 ﻿using System;
 
-namespace _3_throw_exception
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
-        }
-    }
+class Except {
+	public static void Throw() {
+		throw new Exception();
+	}
 }
