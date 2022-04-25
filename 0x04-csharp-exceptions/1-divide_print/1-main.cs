@@ -1,17 +1,18 @@
 using System;
-using System.Collections.Generic;
 
 class Program
 {
     static void Main(string[] args)
     {
-        List<int> list1 = new List<int>() {1, 20, 16, 15, 54};
-        List<int> list2 = new List<int>() {1, 0, 2, 3};
-        List<int> result;
+        int a, b;
 
-        result = List.Divide(list1, list2, 5);
+        a = 4;
+        b = 3;
+        Int.divide(a, b);
+        Console.WriteLine();
 
-        foreach (int i in result)
-            Console.WriteLine(i);
+        a = 9;
+        b = 0;
+        Int.divide(a, b);
     }
 }
