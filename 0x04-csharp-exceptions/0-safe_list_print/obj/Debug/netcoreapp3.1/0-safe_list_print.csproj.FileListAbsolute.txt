@@ -1,0 +1,13 @@
+/home/caro/holberton/holbertonschool-csharp/0x04-csharp-exceptions/0-safe_list_print/obj/Debug/netcoreapp3.1/0-safe_list_print.csprojAssemblyReference.cache
+/home/caro/holberton/holbertonschool-csharp/0x04-csharp-exceptions/0-safe_list_print/obj/Debug/netcoreapp3.1/0-safe_list_print.AssemblyInfoInputs.cache
+/home/caro/holberton/holbertonschool-csharp/0x04-csharp-exceptions/0-safe_list_print/obj/Debug/netcoreapp3.1/0-safe_list_print.AssemblyInfo.cs
+/home/caro/holberton/holbertonschool-csharp/0x04-csharp-exceptions/0-safe_list_print/obj/Debug/netcoreapp3.1/0-safe_list_print.csproj.CoreCompileInputs.cache
+/home/caro/holberton/holbertonschool-csharp/0x04-csharp-exceptions/0-safe_list_print/bin/Debug/netcoreapp3.1/0-safe_list_print
+/home/caro/holberton/holbertonschool-csharp/0x04-csharp-exceptions/0-safe_list_print/bin/Debug/netcoreapp3.1/0-safe_list_print.deps.json
+/home/caro/holberton/holbertonschool-csharp/0x04-csharp-exceptions/0-safe_list_print/bin/Debug/netcoreapp3.1/0-safe_list_print.runtimeconfig.json
+/home/caro/holberton/holbertonschool-csharp/0x04-csharp-exceptions/0-safe_list_print/bin/Debug/netcoreapp3.1/0-safe_list_print.runtimeconfig.dev.json
+/home/caro/holberton/holbertonschool-csharp/0x04-csharp-exceptions/0-safe_list_print/bin/Debug/netcoreapp3.1/0-safe_list_print.dll
+/home/caro/holberton/holbertonschool-csharp/0x04-csharp-exceptions/0-safe_list_print/bin/Debug/netcoreapp3.1/0-safe_list_print.pdb
+/home/caro/holberton/holbertonschool-csharp/0x04-csharp-exceptions/0-safe_list_print/obj/Debug/netcoreapp3.1/0-safe_list_print.dll
+/home/caro/holberton/holbertonschool-csharp/0x04-csharp-exceptions/0-safe_list_print/obj/Debug/netcoreapp3.1/0-safe_list_print.pdb
+/home/caro/holberton/holbertonschool-csharp/0x04-csharp-exceptions/0-safe_list_print/obj/Debug/netcoreapp3.1/0-safe_list_print.genruntimeconfig.cache
