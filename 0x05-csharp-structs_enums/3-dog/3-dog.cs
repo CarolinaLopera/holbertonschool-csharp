@@ -19,5 +19,5 @@ public struct Dog {
         this.rating = rating;
     }
 
-    public override string ToString() => $"Dog name: {name}\nAge: {age}\nOwner: {owner}\nRating: {rating}";
+    public override string ToString() => $"Dog Name: {name}\nAge: {age}\nOwner: {owner}\nRating: {rating}";
 }
