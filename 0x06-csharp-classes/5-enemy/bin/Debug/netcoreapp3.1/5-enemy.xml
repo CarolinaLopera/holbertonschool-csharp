@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>5-enemy</name>
+    </assembly>
+    <members>
+        <member name="T:Enemies.Zombie">
+            <summary> class Zombie </summary>
+        </member>
+        <member name="F:Enemies.Zombie.health">
+            <summary> privates fields health and name </summary>
+        </member>
+        <member name="M:Enemies.Zombie.#ctor">
+            <summary> First constructor </summary>
+        </member>
+        <member name="P:Enemies.Zombie.Name">
+            <summary> public property Name </summary>
+        </member>
+        <member name="M:Enemies.Zombie.#ctor(System.Int32)">
+            <summary> Second constructor, value = health </summary>
+        </member>
+        <member name="M:Enemies.Zombie.GetHealth">
+            <summary> public method of Zombie </summary>
+        </member>
+        <member name="M:Enemies.Zombie.ToString">
+            <summary> public override string that prints attributes of Zombie </summary>
+        </member>
+    </members>
+</doc>

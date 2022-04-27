@@ -1,0 +1,14 @@
+/home/caro/holberton/holbertonschool-csharp/0x06-csharp-classes/5-enemy/bin/Debug/netcoreapp3.1/5-enemy
+/home/caro/holberton/holbertonschool-csharp/0x06-csharp-classes/5-enemy/bin/Debug/netcoreapp3.1/5-enemy.xml
+/home/caro/holberton/holbertonschool-csharp/0x06-csharp-classes/5-enemy/bin/Debug/netcoreapp3.1/5-enemy.deps.json
+/home/caro/holberton/holbertonschool-csharp/0x06-csharp-classes/5-enemy/bin/Debug/netcoreapp3.1/5-enemy.runtimeconfig.json
+/home/caro/holberton/holbertonschool-csharp/0x06-csharp-classes/5-enemy/bin/Debug/netcoreapp3.1/5-enemy.runtimeconfig.dev.json
+/home/caro/holberton/holbertonschool-csharp/0x06-csharp-classes/5-enemy/bin/Debug/netcoreapp3.1/5-enemy.dll
+/home/caro/holberton/holbertonschool-csharp/0x06-csharp-classes/5-enemy/bin/Debug/netcoreapp3.1/5-enemy.pdb
+/home/caro/holberton/holbertonschool-csharp/0x06-csharp-classes/5-enemy/obj/Debug/netcoreapp3.1/5-enemy.csprojAssemblyReference.cache
+/home/caro/holberton/holbertonschool-csharp/0x06-csharp-classes/5-enemy/obj/Debug/netcoreapp3.1/5-enemy.AssemblyInfoInputs.cache
+/home/caro/holberton/holbertonschool-csharp/0x06-csharp-classes/5-enemy/obj/Debug/netcoreapp3.1/5-enemy.AssemblyInfo.cs
+/home/caro/holberton/holbertonschool-csharp/0x06-csharp-classes/5-enemy/obj/Debug/netcoreapp3.1/5-enemy.csproj.CoreCompileInputs.cache
+/home/caro/holberton/holbertonschool-csharp/0x06-csharp-classes/5-enemy/obj/Debug/netcoreapp3.1/5-enemy.dll
+/home/caro/holberton/holbertonschool-csharp/0x06-csharp-classes/5-enemy/obj/Debug/netcoreapp3.1/5-enemy.pdb
+/home/caro/holberton/holbertonschool-csharp/0x06-csharp-classes/5-enemy/obj/Debug/netcoreapp3.1/5-enemy.genruntimeconfig.cache
