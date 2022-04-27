@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>3-enemy</name>
+    </assembly>
+    <members>
+        <member name="T:Enemies.Zombie">
+            <summary> namespace Enemies </summary>
+        </member>
+        <member name="F:Enemies.Zombie.health">
+            <summary> class Zombie with constructor </summary>
+        </member>
+        <member name="M:Enemies.Zombie.#ctor">
+            <summary> private field health </summary>
+        </member>
+        <member name="M:Enemies.Zombie.#ctor(System.Int32)">
+            <summary> field value = health </summary>
+        </member>
+        <member name="M:Enemies.Zombie.GetHealth">
+            <summary> public method of Zombie </summary>
+        </member>
+    </members>
+</doc>
