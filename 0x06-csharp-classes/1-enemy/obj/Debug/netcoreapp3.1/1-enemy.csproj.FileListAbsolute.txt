@@ -11,3 +11,4 @@
 /home/caro/holberton/holbertonschool-csharp/0x06-csharp-classes/1-enemy/obj/Debug/netcoreapp3.1/1-enemy.dll
 /home/caro/holberton/holbertonschool-csharp/0x06-csharp-classes/1-enemy/obj/Debug/netcoreapp3.1/1-enemy.pdb
 /home/caro/holberton/holbertonschool-csharp/0x06-csharp-classes/1-enemy/obj/Debug/netcoreapp3.1/1-enemy.genruntimeconfig.cache
+/home/caro/holberton/holbertonschool-csharp/0x06-csharp-classes/1-enemy/bin/Debug/netcoreapp3.1/1-enemy.xml
