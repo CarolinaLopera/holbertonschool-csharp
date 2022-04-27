@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>1-enemy</name>
+    </assembly>
+    <members>
+        <member name="T:Enemies.Zombie">
+            <summary> namespace </summary>
+        </member>
+        <member name="F:Enemies.Zombie.health">
+            <summary> class Zombie with constructor </summary>
+        </member>
+        <member name="M:Enemies.Zombie.#ctor">
+            <summary> field health </summary>
+        </member>
+    </members>
+</doc>
