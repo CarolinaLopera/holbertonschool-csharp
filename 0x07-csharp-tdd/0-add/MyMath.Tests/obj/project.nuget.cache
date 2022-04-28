@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "QVCpTzF/F0IjB7Xh5tC84XaD7mywRB5/oQVo0bFSY9Vorb2CLiOw7pB3Lwo2+KdBq+XGON1rxE0cqW18P3Axag==",
+  "dgSpecHash": "mHbnaNMu2pwXPttoIZ/+lTfBNfxPkn5AJcrapLXGV5cR8oJrv0rz0q5MJkxtocnxbzLex8DDjbPPlpFtmyfPqA==",
   "success": true,
   "projectFilePath": "/home/caro/holberton/holbertonschool-csharp/0x07-csharp-tdd/0-add/MyMath.Tests/MyMath.Tests.csproj",
   "expectedPackageFiles": [
