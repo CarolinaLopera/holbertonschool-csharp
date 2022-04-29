@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Text</name>
+    </assembly>
+    <members>
+        <member name="T:Text.Str">
+            <sumary> class to check palindrome
+            (word equal to rigth and to reverse) </sumary>
+        </member>
+        <member name="M:Text.Str.IsPalindrome(System.String)">
+            <sumary> method to return true or false
+            if a string is a palindrome </sumary>
+        </member>
+    </members>
+</doc>

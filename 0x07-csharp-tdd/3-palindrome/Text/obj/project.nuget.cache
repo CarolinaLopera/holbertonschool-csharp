@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "yG48WZby2NbSsEYo/NDV6WqKGI88peX6YOIr7eSNiV6CIa1zM8FDcTJfblHNccM6W7Vp8w/eXf6p0PQlSwlOOA==",
+  "success": true,
+  "projectFilePath": "/home/caro/holberton/holbertonschool-csharp/0x07-csharp-tdd/3-palindrome/Text/Text.csproj",
+  "expectedPackageFiles": [
+    "/home/caro/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/home/caro/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
