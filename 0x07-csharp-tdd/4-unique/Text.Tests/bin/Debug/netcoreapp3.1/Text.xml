@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Text</name>
+    </assembly>
+    <members>
+        <member name="T:Text.Str">
+            <sumary> class of string </sumary>
+        </member>
+        <member name="M:Text.Str.UniqueChar(System.String)">
+            <sumary> method to check the first time of the char unique </sumary>
+        </member>
+    </members>
+</doc>
