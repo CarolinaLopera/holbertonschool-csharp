@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Text</name>
+    </assembly>
+    <members>
+        <member name="T:Text.Str">
+            <sumary> class of string </sumary>
+        </member>
+        <member name="M:Text.Str.CamelCase(System.String)">
+            <sumary> method to count the number words in string </sumary>
+        </member>
+    </members>
+</doc>
