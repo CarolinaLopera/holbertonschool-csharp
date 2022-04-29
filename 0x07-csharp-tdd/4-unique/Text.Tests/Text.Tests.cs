@@ -3,6 +3,7 @@ using NUnit.Framework;
 namespace Text.Tests {
     [TestFixture]
     public class Tests {
+        [TestCase(6, "levelvx")]
         [TestCase(3, "holaholberton")]
         [TestCase(0, "thisisuniquechar")]
         public void Index(int index, string str) {
