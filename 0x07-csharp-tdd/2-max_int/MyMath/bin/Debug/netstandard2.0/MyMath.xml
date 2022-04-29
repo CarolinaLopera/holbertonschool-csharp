@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MyMath</name>
+    </assembly>
+    <members>
+        <member name="T:MyMath.Operations">
+            <sumary> class Operations </sumary>
+        </member>
+        <member name="M:MyMath.Operations.Max(System.Collections.Generic.List{System.Int32})">
+            <sumary> method to return max integer in a list </sumary>
+        </member>
+    </members>
+</doc>
