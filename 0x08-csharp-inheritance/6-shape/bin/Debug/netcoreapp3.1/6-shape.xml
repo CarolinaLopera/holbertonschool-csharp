@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>6-shape</name>
+    </assembly>
+    <members>
+        <member name="T:Shape">
+            <sumary> class Shape </sumary>
+        </member>
+        <member name="M:Shape.Area">
+            <sumary> method that generate a exception </sumary>
+        </member>
+        <member name="T:Rectangle">
+            <sumary> class Rectangle inherits from Shape </sumary>
+        </member>
+        <member name="F:Rectangle.width">
+            <summary> privates fields width and width </summary>
+        </member>
+        <member name="P:Rectangle.Width">
+            <summary> public property Width </summary>
+        </member>
+        <member name="P:Rectangle.Height">
+            <summary> public property Height </summary>
+        </member>
+    </members>
+</doc>
