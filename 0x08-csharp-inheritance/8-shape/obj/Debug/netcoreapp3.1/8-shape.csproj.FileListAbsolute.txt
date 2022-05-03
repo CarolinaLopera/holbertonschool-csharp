@@ -1,0 +1,13 @@
+/home/caro/holberton/holbertonschool-csharp/0x08-csharp-inheritance/8-shape/obj/Debug/netcoreapp3.1/8-shape.csprojAssemblyReference.cache
+/home/caro/holberton/holbertonschool-csharp/0x08-csharp-inheritance/8-shape/obj/Debug/netcoreapp3.1/8-shape.AssemblyInfoInputs.cache
+/home/caro/holberton/holbertonschool-csharp/0x08-csharp-inheritance/8-shape/obj/Debug/netcoreapp3.1/8-shape.AssemblyInfo.cs
+/home/caro/holberton/holbertonschool-csharp/0x08-csharp-inheritance/8-shape/obj/Debug/netcoreapp3.1/8-shape.csproj.CoreCompileInputs.cache
+/home/caro/holberton/holbertonschool-csharp/0x08-csharp-inheritance/8-shape/bin/Debug/netcoreapp3.1/8-shape
+/home/caro/holberton/holbertonschool-csharp/0x08-csharp-inheritance/8-shape/bin/Debug/netcoreapp3.1/8-shape.deps.json
+/home/caro/holberton/holbertonschool-csharp/0x08-csharp-inheritance/8-shape/bin/Debug/netcoreapp3.1/8-shape.runtimeconfig.json
+/home/caro/holberton/holbertonschool-csharp/0x08-csharp-inheritance/8-shape/bin/Debug/netcoreapp3.1/8-shape.runtimeconfig.dev.json
+/home/caro/holberton/holbertonschool-csharp/0x08-csharp-inheritance/8-shape/bin/Debug/netcoreapp3.1/8-shape.dll
+/home/caro/holberton/holbertonschool-csharp/0x08-csharp-inheritance/8-shape/bin/Debug/netcoreapp3.1/8-shape.pdb
+/home/caro/holberton/holbertonschool-csharp/0x08-csharp-inheritance/8-shape/obj/Debug/netcoreapp3.1/8-shape.dll
+/home/caro/holberton/holbertonschool-csharp/0x08-csharp-inheritance/8-shape/obj/Debug/netcoreapp3.1/8-shape.pdb
+/home/caro/holberton/holbertonschool-csharp/0x08-csharp-inheritance/8-shape/obj/Debug/netcoreapp3.1/8-shape.genruntimeconfig.cache
