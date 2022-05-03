@@ -1,0 +1,16 @@
+/home/caro/holberton/holbertonschool-csharp/0x08-csharp-inheritance/9-shape/obj/Debug/net6.0/9-shape.csproj.AssemblyReference.cache
+/home/caro/holberton/holbertonschool-csharp/0x08-csharp-inheritance/9-shape/obj/Debug/net6.0/9-shape.GeneratedMSBuildEditorConfig.editorconfig
+/home/caro/holberton/holbertonschool-csharp/0x08-csharp-inheritance/9-shape/obj/Debug/net6.0/9-shape.AssemblyInfoInputs.cache
+/home/caro/holberton/holbertonschool-csharp/0x08-csharp-inheritance/9-shape/obj/Debug/net6.0/9-shape.AssemblyInfo.cs
+/home/caro/holberton/holbertonschool-csharp/0x08-csharp-inheritance/9-shape/obj/Debug/net6.0/9-shape.csproj.CoreCompileInputs.cache
+/home/caro/holberton/holbertonschool-csharp/0x08-csharp-inheritance/9-shape/bin/Debug/net6.0/9-shape
+/home/caro/holberton/holbertonschool-csharp/0x08-csharp-inheritance/9-shape/bin/Debug/net6.0/9-shape.xml
+/home/caro/holberton/holbertonschool-csharp/0x08-csharp-inheritance/9-shape/bin/Debug/net6.0/9-shape.deps.json
+/home/caro/holberton/holbertonschool-csharp/0x08-csharp-inheritance/9-shape/bin/Debug/net6.0/9-shape.runtimeconfig.json
+/home/caro/holberton/holbertonschool-csharp/0x08-csharp-inheritance/9-shape/bin/Debug/net6.0/9-shape.dll
+/home/caro/holberton/holbertonschool-csharp/0x08-csharp-inheritance/9-shape/bin/Debug/net6.0/9-shape.pdb
+/home/caro/holberton/holbertonschool-csharp/0x08-csharp-inheritance/9-shape/obj/Debug/net6.0/9-shape.dll
+/home/caro/holberton/holbertonschool-csharp/0x08-csharp-inheritance/9-shape/obj/Debug/net6.0/refint/9-shape.dll
+/home/caro/holberton/holbertonschool-csharp/0x08-csharp-inheritance/9-shape/obj/Debug/net6.0/9-shape.pdb
+/home/caro/holberton/holbertonschool-csharp/0x08-csharp-inheritance/9-shape/obj/Debug/net6.0/9-shape.genruntimeconfig.cache
+/home/caro/holberton/holbertonschool-csharp/0x08-csharp-inheritance/9-shape/obj/Debug/net6.0/ref/9-shape.dll

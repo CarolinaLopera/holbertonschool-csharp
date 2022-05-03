@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>9-shape</name>
+    </assembly>
+    <members>
+        <member name="T:Shape">
+            <sumary> class Shape </sumary>
+        </member>
+        <member name="M:Shape.Area">
+            <sumary> method that generate a exception </sumary>
+        </member>
+        <member name="T:Rectangle">
+            <sumary> class Rectangle inherits from Shape </sumary>
+        </member>
+        <member name="F:Rectangle.width">
+            <summary> privates fields width and height </summary>
+        </member>
+        <member name="P:Rectangle.Width">
+            <summary> public property Width </summary>
+        </member>
+        <member name="P:Rectangle.Height">
+            <summary> public property Height </summary>
+        </member>
+        <member name="M:Rectangle.Area">
+            <summary> public override that replace method Area from Shape </summary>
+        </member>
+        <member name="M:Rectangle.ToString">
+            <summary> public override string that prints attributes of Rectangle </summary>
+        </member>
+        <member name="T:Square">
+            <sumary> class Square inherits from Rectangle </sumary>
+        </member>
+        <member name="F:Square.size">
+            <summary> privates fields size </summary>
+        </member>
+        <member name="P:Square.Size">
+            <summary> public property Size </summary>
+        </member>
+        <member name="M:Square.ToString">
+            <summary> public override string that prints attributes of Rectangle </summary>
+        </member>
+    </members>
+</doc>
