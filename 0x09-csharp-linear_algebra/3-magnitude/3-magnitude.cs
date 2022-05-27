@@ -1,18 +1,16 @@
 ﻿using System;
 
-/// <sumary> class VectorMath </sumary>
+/// <summary> class VectorMath </summary>
 class VectorMath {
-    /// <sumary> method Magnitude </sumary>
+    /// <summary> method Magnitude </summary>
     public static double Magnitude(double[] vector) {
         if (vector.Length == 2) {
             double add = Math.Pow(vector[0], 2) + Math.Pow(vector[1], 2);
-            double result = Math.Round(Math.Sqrt(add));
-            return result;
+            return (Math.Sqrt(add));
         }
         if (vector.Length == 3) {
             double add = Math.Pow(vector[0], 2) + Math.Pow(vector[1], 2) + Math.Pow(vector[2], 2);
-            double result = Math.Round(Math.Sqrt(add));
-            return result;
+            return (Math.Sqrt(add));
         }
         return -1;
     }
