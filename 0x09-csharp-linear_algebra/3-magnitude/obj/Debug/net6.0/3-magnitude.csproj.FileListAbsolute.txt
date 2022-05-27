@@ -1,0 +1,16 @@
+/home/caro/holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/3-magnitude/bin/Debug/net6.0/3-magnitude
+/home/caro/holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/3-magnitude/bin/Debug/net6.0/3-magnitude.xml
+/home/caro/holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/3-magnitude/bin/Debug/net6.0/3-magnitude.deps.json
+/home/caro/holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/3-magnitude/bin/Debug/net6.0/3-magnitude.runtimeconfig.json
+/home/caro/holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/3-magnitude/bin/Debug/net6.0/3-magnitude.dll
+/home/caro/holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/3-magnitude/bin/Debug/net6.0/3-magnitude.pdb
+/home/caro/holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/3-magnitude/obj/Debug/net6.0/3-magnitude.csproj.AssemblyReference.cache
+/home/caro/holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/3-magnitude/obj/Debug/net6.0/3-magnitude.GeneratedMSBuildEditorConfig.editorconfig
+/home/caro/holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/3-magnitude/obj/Debug/net6.0/3-magnitude.AssemblyInfoInputs.cache
+/home/caro/holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/3-magnitude/obj/Debug/net6.0/3-magnitude.AssemblyInfo.cs
+/home/caro/holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/3-magnitude/obj/Debug/net6.0/3-magnitude.csproj.CoreCompileInputs.cache
+/home/caro/holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/3-magnitude/obj/Debug/net6.0/3-magnitude.dll
+/home/caro/holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/3-magnitude/obj/Debug/net6.0/refint/3-magnitude.dll
+/home/caro/holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/3-magnitude/obj/Debug/net6.0/3-magnitude.pdb
+/home/caro/holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/3-magnitude/obj/Debug/net6.0/3-magnitude.genruntimeconfig.cache
+/home/caro/holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/3-magnitude/obj/Debug/net6.0/ref/3-magnitude.dll

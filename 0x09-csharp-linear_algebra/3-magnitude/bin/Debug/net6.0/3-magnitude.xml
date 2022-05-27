@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>3-magnitude</name>
+    </assembly>
+    <members>
+        <member name="T:VectorMath">
+            <summary> class VectorMath </summary>
+        </member>
+        <member name="M:VectorMath.Magnitude(System.Double[])">
+            <summary> method Magnitude </summary>
+        </member>
+    </members>
+</doc>
