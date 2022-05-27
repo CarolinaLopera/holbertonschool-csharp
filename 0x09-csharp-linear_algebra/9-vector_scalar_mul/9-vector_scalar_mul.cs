@@ -12,6 +12,7 @@ class VectorMath {
             double[] threeD = new double[] { vector[0] * scalar, vector[1] * scalar, vector[2] * scalar }  ;
             return threeD;
         }
-        return -1;
+        double[] bad = new double[] { -1 };
+        return bad;
     }
 }
