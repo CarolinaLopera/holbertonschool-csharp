@@ -5,7 +5,6 @@
     <TargetFramework>netcoreapp2.1</TargetFramework><TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <RootNamespace>_6_vector_addition</RootNamespace>
-    <Nullable>enable</Nullable>
     <DocumentationFile>bin\$(Configuration)\$(TargetFramework)\$(AssemblyName).xml</DocumentationFile>
   </PropertyGroup>
 
