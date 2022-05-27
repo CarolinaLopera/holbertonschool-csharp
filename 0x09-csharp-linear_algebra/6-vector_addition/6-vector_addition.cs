@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 
-/// <sumary> class VectorMath </sumary>
+/// <summary> class VectorMath </summary>
 class VectorMath {
-    /// <sumary> method Add </sumary>
+    /// <summary> method Add </summary>
     public static double[] Add(double[] vector1, double[] vector2) {
         if (vector1.Length != vector2.Length){
             double[] newVector = { -1 };
